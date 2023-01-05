@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pragathi-V
-- 👀 I’m interested in web devolopment,App development
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in Java full stack
 
 <!---
 Pragathi-V/Pragathi-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
